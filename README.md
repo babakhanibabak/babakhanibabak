@@ -8,7 +8,7 @@ Passionate about continuously enhancing my skills and staying updated with new t
 🔭 I’m currently working on ...
 
 ### Languages:
-| Java | Dart | JS | HTML5 | 
-|----------|----------|----------|-----|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java"  alt="Java" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart"  alt="Dart" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Solidity" alt="Solidity" width="55" height="55"/>| 
+| Kotlin | 
+|----------|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin"  alt="Kotlin" width="55" height="55"/> |
 

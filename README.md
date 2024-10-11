@@ -12,3 +12,7 @@ Passionate about continuously enhancing my skills and staying updated with new t
 |----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin"  alt="Kotlin" width="55" height="55"/> |
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+

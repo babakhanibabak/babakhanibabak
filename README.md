@@ -7,10 +7,31 @@ Passionate about continuously enhancing my skills and staying updated with new t
 
 🔭 I’m currently working on ...
 
-### Languages:
+
+### 🛠️ **Languages:
 | Kotlin | 
 |----------|
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin"  alt="Kotlin" width="55" height="55"/> |
+
+
+
+
+### 📱 **Android Development**
+- Android SDK
+- Android Jetpack
+- Android Studio
+
+### 🔨 **Build Tools**
+- Gradle
+
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=babakhanibabak&border_radius=5&card_width=800">
+</p>
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=babakhanibabak&show_icons=true&theme=vision-friendly">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babakhanibabak&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly">
+</p>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>

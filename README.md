@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2581A9&center=true&random=false&width=600&lines=Android+Developer+;Always+Learning+new+things+;Continuously+Improving+Skills;Passionate+about+Technology;cheak+my+repositories!;" /></a>
+</p>
+
 ### About Me:
 Android developer with a year of experience working on personal projects, specializing in creating modern, user-friendly applications. With strong expertise in Kotlin and Jetpack Compose, I design and implement apps using best practices such as MVVM and Clean Architecture.
 
